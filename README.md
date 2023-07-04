@@ -8,4 +8,4 @@
 
 Hi! 我是锦衣无涯~
 做过点前端，写过点后端，目前更多关注云原生Devops
-工作中主要使用Go，Javascript，Typescript
+工作中主要使用Go,Node.js,Java
